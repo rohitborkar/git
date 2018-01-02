@@ -1,6 +1,6 @@
 rohitborkarpatil/git@....
 
-1) 
+1) Checkout remote directory into local	
 	git clone https://github.com/rohitborkarpatil/git.git
 
 2) Adding, Upating & commiting file
@@ -8,3 +8,8 @@ rohitborkarpatil/git@....
 	git commit newFileName
 	git push
 
+3) Delete file
+	git rm -f fileName
+	git add -A	//add deleted files
+	git commit fileName
+	git push
