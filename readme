@@ -1,3 +1,11 @@
 rohitborkarpatil/git@....
 
+1) 
+	git clone https://github.com/rohitborkarpatil/git.git
 
+2) Adding & commiting new file
+	git add newFileName
+	git commit newFileName
+	git push
+
+3)
